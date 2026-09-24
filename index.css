@@ -7,7 +7,7 @@
 }
 body {
   background-color: black;
-	background-image: url('./assets/purple-stars-bg.gif');
+	background-image: url('./assets/purple-stars-bg.webp');
   min-height: 95vh;
   margin: 0px;
 }
@@ -125,12 +125,12 @@ div.badges_container {
 
 @font-face {
   font-family: main_title;
-  src: url(assets/fonts/iosevka-ss06-extendedbold.ttf);
+  src: url(assets/fonts/iosevka-ss06-extendedbold.woff2);
 }
 
 @font-face {
   font-family: general_text;
-  src: url(assets/fonts/iosevka-ss06-extended.ttf);
+  src: url(assets/fonts/iosevka-ss06-extended.woff2);
 }
 
 @media all and (max-width: 800px){
